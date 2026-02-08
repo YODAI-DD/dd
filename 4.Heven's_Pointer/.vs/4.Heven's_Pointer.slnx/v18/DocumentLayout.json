@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hnt-t\\dd\\4.Heven\u0027s_Pointer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{81B0EA67-D7C5-4322-B99B-2987DE2D923B}|4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09.vcxproj|C:\\Users\\hnt-t\\dd\\4.Heven\u0027s_Pointer\\4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\StrLen3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{81B0EA67-D7C5-4322-B99B-2987DE2D923B}|4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09.vcxproj|solutionrelative:4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\StrLen3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StrLen3.cpp",
-              "DocumentMoniker": "C:\\Users\\hnt-t\\dd\\4.Heven\u0027s_Pointer\\4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\StrLen3.cpp",
-              "RelativeDocumentMoniker": "4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\StrLen3.cpp",
-              "ToolTip": "C:\\Users\\hnt-t\\dd\\4.Heven\u0027s_Pointer\\4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\StrLen3.cpp",
-              "RelativeToolTip": "4-07.\u914D\u5217\u3068\u30DD\u30A4\u30F3\u30BF\u306E\u5207\u3063\u3066\u3082\u5207\u308C\u306A\u3044\u95A2\u4FC2\uFF08\u30A2\u30C9\u30EC\u30B9\u306E\u6F14\u7B97(\uFF12)\uFF09\\StrLen3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-07T15:00:57.379Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-size_t StrLen(const char* str)
+size_t StrLen(char* str)
 {
 	int i;
 	for (i = 0; *(str + i) != '\0'; ++i)
@@ -11,7 +11,7 @@ size_t StrLen(const char* str)
 	return i;
 }
 
-void ShowLength(const char* str)
+void ShowLength(char* str)
 {
 	cout << "文字列「" << str << "」の長さは"
 		<< StrLen(str) << "バイトです" << endl;
