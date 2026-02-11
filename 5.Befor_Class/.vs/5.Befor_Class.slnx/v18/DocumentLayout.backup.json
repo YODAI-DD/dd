@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hnt-t\\dd\\5.Befor_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E0CA21E-A6FE-4F8C-9A45-A52D8744D4B3}|5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09.vcxproj|C:\\Users\\hnt-t\\dd\\5.Befor_Class\\5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\Static1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2E0CA21E-A6FE-4F8C-9A45-A52D8744D4B3}|5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09.vcxproj|solutionrelative:5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\Static1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7AD29CC0-C4D0-472A-ADA1-058B1B2644E0}|5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E.vcxproj|C:\\Users\\hnt-t\\dd\\5.Befor_Class\\5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\Internal2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD29CC0-C4D0-472A-ADA1-058B1B2644E0}|5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E.vcxproj|solutionrelative:5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\Internal2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Static1.cpp",
-              "DocumentMoniker": "C:\\Users\\hnt-t\\dd\\5.Befor_Class\\5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\Static1.cpp",
-              "RelativeDocumentMoniker": "5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\Static1.cpp",
-              "ToolTip": "C:\\Users\\hnt-t\\dd\\5.Befor_Class\\5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\Static1.cpp*",
-              "RelativeToolTip": "5-09.\u95A2\u6570\u5185\u306B\u3053\u3082\u308A\u304D\u308A\uFF08\u9759\u7684\u30ED\u30FC\u30AB\u30EB\u5909\u6570\uFF09\\Static1.cpp*",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
+              "Title": "Internal2.cpp",
+              "DocumentMoniker": "C:\\Users\\hnt-t\\dd\\5.Befor_Class\\5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\Internal2.cpp",
+              "RelativeDocumentMoniker": "5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\Internal2.cpp",
+              "ToolTip": "C:\\Users\\hnt-t\\dd\\5.Befor_Class\\5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\Internal2.cpp",
+              "RelativeToolTip": "5-11.\u30A4\u30F3\u30C9\u30A2\u6D3E vs \u30A2\u30A6\u30C8\u30C9\u30A2\u6D3E\\Internal2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-11T06:06:10.958Z",
+              "WhenOpened": "2026-02-11T13:43:33.66Z",
               "EditorCaption": ""
             }
           ]

@@ -12,4 +12,6 @@
   <Project Path="5-07.？：？？？（条件演算子）/5-07.？：？？？（条件演算子）.vcxproj" Id="7465d4be-920e-4552-af7d-21dc29ba9b15" />
   <Project Path="5-08.ナマケモノ１（デフォルト引数）/5-08.ナマケモノ１（デフォルト引数）.vcxproj" Id="14f41efe-17ae-40bb-add0-375de9670115" />
   <Project Path="5-09.関数内にこもりきり（静的ローカル変数）/5-09.関数内にこもりきり（静的ローカル変数）.vcxproj" Id="2e0ca21e-a6fe-4f8c-9a45-a52d8744d4b3" />
+  <Project Path="5-10.どこまで有効？（変数の寿命とスコープ）/5-10.どこまで有効？（変数の寿命とスコープ）.vcxproj" Id="f012629c-d99d-4854-babd-148dd6f86edd" />
+  <Project Path="5-11.インドア派 vs アウトドア派/5-11.インドア派 vs アウトドア派.vcxproj" Id="7ad29cc0-c4d0-472a-ada1-058b1b2644e0" />
 </Solution>
