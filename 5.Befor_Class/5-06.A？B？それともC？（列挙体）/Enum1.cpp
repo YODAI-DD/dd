@@ -10,18 +10,10 @@ enum CompareResult
 
 CompareResult Compare(int a, int b)
 {
-	if (a < b)
-	{
-		return CR_LESS_THAN;
-	}
-	else if (a == b)
-	{
-		return CR_EQUAL_TO;
-	}
-	else if (a > b)
-	{
-		return CR_GREATER_THAN;
-	}
+	return
+		a < b ? CR_LESS_THAN :
+		a == b ? CR_EQUAL_TO :
+		     CR_GREATER_THAN ;
 }
 
 bool Result()

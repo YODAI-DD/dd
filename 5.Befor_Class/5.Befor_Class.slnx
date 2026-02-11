@@ -9,4 +9,7 @@
   <Project Path="5-04.セットで宣言２/5-04.セットで宣言２.vcxproj" Id="33bfc282-bc67-4d37-9161-f3e4c844fc87" />
   <Project Path="5-05.セットで宣言３（構造体）/5-05.セットで宣言３（構造体）.vcxproj" Id="2de840a5-a892-41df-af6a-841c4a03d930" />
   <Project Path="5-06.A？B？それともC？（列挙体）/5-06.A？B？それともC？（列挙体）.vcxproj" Id="9ba69d59-55c9-4b10-9cb8-0c5f2d9d2c2a" />
+  <Project Path="5-07.？：？？？（条件演算子）/5-07.？：？？？（条件演算子）.vcxproj" Id="7465d4be-920e-4552-af7d-21dc29ba9b15" />
+  <Project Path="5-08.ナマケモノ１（デフォルト引数）/5-08.ナマケモノ１（デフォルト引数）.vcxproj" Id="14f41efe-17ae-40bb-add0-375de9670115" />
+  <Project Path="5-09.関数内にこもりきり（静的ローカル変数）/5-09.関数内にこもりきり（静的ローカル変数）.vcxproj" Id="2e0ca21e-a6fe-4f8c-9a45-a52d8744d4b3" />
 </Solution>
