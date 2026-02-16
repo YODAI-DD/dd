@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{882e6ac3-59d0-4f97-87fe-2f9f090c51e3}</ProjectGuid>
-    <RootNamespace>My514逃げの一手エスケープシーケンス</RootNamespace>
+    <ProjectGuid>{6336eb04-22b2-48a4-9a5d-968c84e0c9e3}</ProjectGuid>
+    <RootNamespace>問題１</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Escape1.cpp" />
+    <ClCompile Include="問題１.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

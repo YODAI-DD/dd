@@ -14,4 +14,8 @@
   <Project Path="5-11.インドア派 vs アウトドア派/5-11.インドア派 vs アウトドア派.vcxproj" Id="7ad29cc0-c4d0-472a-ada1-058b1b2644e0" />
   <Project Path="5-12.仰山のファイル（分割コンパイル(１)）/5-12.仰山のファイル（分割コンパイル(１)）.vcxproj" Id="dd479be3-f348-4c2c-a3e6-ec2941484512" />
   <Project Path="5-13.文字通り（文字列リテラル）/5-13.文字通り（文字列リテラル）.vcxproj" Id="977f72ef-0c06-4135-a999-4a8a937d492e" />
+  <Project Path="5-14.逃げの一手（エスケープシーケンス）/5-14.逃げの一手（エスケープシーケンス）.vcxproj" Id="882e6ac3-59d0-4f97-87fe-2f9f090c51e3" />
+  <Project Path="5-15.借りたら返す１（new &amp; delete(1)）/5-15.借りたら返す１（new &amp; delete(1)）.vcxproj" Id="953f8fec-0b6c-4c22-85b1-28b3e06589fe" />
+  <Project Path="5-16.借りたら返す２（new &amp; delete(2)）/5-16.借りたら返す２（new &amp; delete(2)）.vcxproj" Id="69718092-b34f-4b4f-b19b-6022ddb23991" />
+  <Project Path="問題１/問題１.vcxproj" Id="6336eb04-22b2-48a4-9a5d-968c84e0c9e3" />
 </Solution>
