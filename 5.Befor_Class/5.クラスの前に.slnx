@@ -17,5 +17,6 @@
   <Project Path="5-14.逃げの一手（エスケープシーケンス）/5-14.逃げの一手（エスケープシーケンス）.vcxproj" Id="882e6ac3-59d0-4f97-87fe-2f9f090c51e3" />
   <Project Path="5-15.借りたら返す１（new &amp; delete(1)）/5-15.借りたら返す１（new &amp; delete(1)）.vcxproj" Id="953f8fec-0b6c-4c22-85b1-28b3e06589fe" />
   <Project Path="5-16.借りたら返す２（new &amp; delete(2)）/5-16.借りたら返す２（new &amp; delete(2)）.vcxproj" Id="69718092-b34f-4b4f-b19b-6022ddb23991" />
+  <Project Path="5-17.借りたら返す３（new &amp; delete(3)）/5-17.借りたら返す３（new &amp; delete(3)）.vcxproj" Id="f9c4a067-019d-41e5-a2ad-0e4ad5ead0b1" />
   <Project Path="問題１/問題１.vcxproj" Id="6336eb04-22b2-48a4-9a5d-968c84e0c9e3" />
 </Solution>

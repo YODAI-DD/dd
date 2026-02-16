@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f9c4a067-019d-41e5-a2ad-0e4ad5ead0b1}</ProjectGuid>
-    <RootNamespace>My517借りたら返す３newdelete3</RootNamespace>
+    <ProjectGuid>{c704d942-b273-4ca0-8b2a-17b91253a56a}</ProjectGuid>
+    <RootNamespace>My601クラスの基本</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="New3.cpp" />
+    <ClCompile Include="class1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
