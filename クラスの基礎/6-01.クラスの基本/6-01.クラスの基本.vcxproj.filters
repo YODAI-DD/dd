@@ -1,22 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="ソース ファイル">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="ヘッダー ファイル">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
     <Filter Include="リソース ファイル">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="class1">
+      <UniqueIdentifier>{98d54c43-ca03-4081-b7b6-5aec2f75fe1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="class1\classes">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="class1\main">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="class1b">
+      <UniqueIdentifier>{26081167-4c85-4650-a6b5-ad2ea72227e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="class1b\class1b_main">
+      <UniqueIdentifier>{8dafdb61-0bac-422c-acc9-89e8f7f2c294}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="class1b\class1b_class">
+      <UniqueIdentifier>{a89ebd4c-d1dc-4a76-a682-26cf2747c891}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class1.cpp">
-      <Filter>ソース ファイル</Filter>
+    <ClCompile Include="class1b_main.cpp">
+      <Filter>class1b\class1b_main</Filter>
     </ClCompile>
+    <ClCompile Include="class1b_class.cpp">
+      <Filter>class1b\class1b_class</Filter>
+    </ClCompile>
+    <ClCompile Include="class1_class.cpp">
+      <Filter>class1\classes</Filter>
+    </ClCompile>
+    <ClCompile Include="class1_main.cpp">
+      <Filter>class1\classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class1b_class.h">
+      <Filter>class1b\class1b_class</Filter>
+    </ClInclude>
+    <ClInclude Include="class1_class.h">
+      <Filter>class1\main</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
