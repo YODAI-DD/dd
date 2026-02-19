@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="5-04.セットで宣言２/5-04.セットで宣言２.vcxproj" />
+</Solution>

@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="5-01.配列の配列の配列の~（多次元配列(１)）/5-01.配列の配列の配列の~（多次元配列(１)）.vcxproj" Id="aa458f71-2e7c-4d24-bfb3-4bdb5ba07e68" />
+  <Project Path="5-04.セットで宣言２/5-04.セットで宣言２.vcxproj" Id="33bfc282-bc67-4d37-9161-f3e4c844fc87" />
+  <Project Path="5-05.セットで宣言３（構造体）/5-05.セットで宣言３（構造体）.vcxproj" Id="2de840a5-a892-41df-af6a-841c4a03d930" />
+  <Project Path="5-06.A？B？それともC？（列挙体）/5-06.A？B？それともC？（列挙体）.vcxproj" Id="9ba69d59-55c9-4b10-9cb8-0c5f2d9d2c2a" />
+  <Project Path="5-07.？：？？？（条件演算子）/5-07.？：？？？（条件演算子）.vcxproj" Id="7465d4be-920e-4552-af7d-21dc29ba9b15" />
+  <Project Path="5-08.ナマケモノ１（デフォルト引数）/5-08.ナマケモノ１（デフォルト引数）.vcxproj" Id="14f41efe-17ae-40bb-add0-375de9670115" />
+  <Project Path="5-09.関数内にこもりきり（静的ローカル変数）/5-09.関数内にこもりきり（静的ローカル変数）.vcxproj" Id="2e0ca21e-a6fe-4f8c-9a45-a52d8744d4b3" />
+  <Project Path="5-10.どこまで有効？（変数の寿命とスコープ）/5-10.どこまで有効？（変数の寿命とスコープ）.vcxproj" Id="f012629c-d99d-4854-babd-148dd6f86edd" />
+  <Project Path="5-11.インドア派 vs アウトドア派/5-11.インドア派 vs アウトドア派.vcxproj" Id="7ad29cc0-c4d0-472a-ada1-058b1b2644e0" />
+  <Project Path="5-12.仰山のファイル（分割コンパイル(１)）/5-12.仰山のファイル（分割コンパイル(１)）.vcxproj" Id="dd479be3-f348-4c2c-a3e6-ec2941484512" />
+  <Project Path="5-13.文字通り（文字列リテラル）/5-13.文字通り（文字列リテラル）.vcxproj" Id="977f72ef-0c06-4135-a999-4a8a937d492e" />
+  <Project Path="5-14.逃げの一手（エスケープシーケンス）/5-14.逃げの一手（エスケープシーケンス）.vcxproj" Id="882e6ac3-59d0-4f97-87fe-2f9f090c51e3" />
+  <Project Path="5-15.借りたら返す１（new &amp; delete(1)）/5-15.借りたら返す１（new &amp; delete(1)）.vcxproj" Id="953f8fec-0b6c-4c22-85b1-28b3e06589fe" />
+  <Project Path="5-16.借りたら返す２（new &amp; delete(2)）/5-16.借りたら返す２（new &amp; delete(2)）.vcxproj" Id="69718092-b34f-4b4f-b19b-6022ddb23991" />
+  <Project Path="5-17.借りたら返す３（new &amp; delete(3)）/5-17.借りたら返す３（new &amp; delete(3)）.vcxproj" Id="f9c4a067-019d-41e5-a2ad-0e4ad5ead0b1" />
+  <Project Path="問題１/問題１.vcxproj" Id="6336eb04-22b2-48a4-9a5d-968c84e0c9e3" />
+</Solution>

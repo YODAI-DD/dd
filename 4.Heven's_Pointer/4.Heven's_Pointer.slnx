@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="4-01.メモリ町１番地（メモリとアドレス）/4-01.メモリ町１番地（メモリとアドレス）.vcxproj" Id="9f346ebc-86a1-450b-9587-89660d363068" />
+  <Project Path="4-02.ポインタ天国１（ポインタ(１)）/4-02.ポインタ天国１（ポインタ(１)）.vcxproj" Id="a53d66e2-ae64-43f9-add5-48c70b26da1f" />
+  <Project Path="4-03.ポインタ天国２（ポインタ(２)）/4-03.ポインタ天国２（ポインタ(２)）.vcxproj" Id="da8ecc03-a132-4af3-af04-cdbe3ac92a14" />
+  <Project Path="4-04.配列再考（配列とポインタ(１)）/4-04.配列再考（配列とポインタ(１)）.vcxproj" Id="d34cd3df-f250-49b7-b8dd-d0d7f3833460" />
+  <Project Path="4-05.配列再々考（配列とポインタ(２)）/4-05.配列再々考（配列とポインタ(２)）.vcxproj" Id="88f21740-3cf4-4096-ad32-165a3c754c5c" />
+  <Project Path="4-06.１＋１＝５？？（アドレスの演算(１)）/4-06.１＋１＝５？？（アドレスの演算(１)）.vcxproj" Id="119c2e80-4211-4790-9fba-b1d446a1f8a3" />
+  <Project Path="4-07.配列とポインタの切っても切れない関係（アドレスの演算(２)）/4-07.配列とポインタの切っても切れない関係（アドレスの演算(２)）.vcxproj" Id="81b0ea67-d7c5-4322-b99b-2987de2d923b" />
+  <Project Path="4-08.変えてくれるな1（const(1)）/4-08.変えてくれるな1（const(1)）.vcxproj" Id="5b4947fd-0f30-4985-93a8-5e752156b6f5" />
+  <Project Path="4-09.変えてくれるな２（const(2)）/4-09.変えてくれるな２（const(2)）.vcxproj" Id="e8af2576-f774-4c42-89e4-55f927e6db11" />
+  <Project Path="4-10.ポイントできないポインタ（ヌルポインタ）/4-10.ポイントできないポインタ（ヌルポインタ）.vcxproj" Id="f2aa1e5f-2adb-44eb-945b-e4576edeacac" />
+  <Project Path="4.Heven's_Pointer/4.Heven's_Pointer.vcxproj" Id="2e7a7992-93ab-4d2e-ad6e-8f7b8593ddaf" />
+</Solution>
