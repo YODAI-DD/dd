@@ -8,7 +8,7 @@ using namespace std;
 IntArray::IntArray()
 {
 	//fill_n関数を使い、配列を0で初期化
-	fill_n(m_array, INTARRAY_SIZE, 0);
+	fill_n(m_array, INTARRAYSIZE, 0);
 }
 
 //メンバへのアクセス関数
@@ -27,7 +27,7 @@ void IntArray::Set(int i, int value)
 //インデックスのチェック
 void IntArray::CheckIndex(int i)
 {
-	if (0 <= i && i < INTARRAY_SIZE)
+	if (0 <= i && i < INTARRAYSIZE)
 	{
 		//インデックスは有効
 	}

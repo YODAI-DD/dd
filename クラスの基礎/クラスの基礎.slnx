@@ -7,4 +7,6 @@
   <Project Path="6-03.オブジェクトを作ろう/6-03.オブジェクトを作ろう.vcxproj" Id="4c0683b8-1b1c-4ff3-a129-ca86c4b01a0c" />
   <Project Path="6-04.オブジェクトを作ろう２（引数つきコンストラクタ）/6-04.オブジェクトを作ろう２（引数つきコンストラクタ）.vcxproj" Id="d3571b16-4195-4af0-8502-83e5794e9274" />
   <Project Path="6-05.隠せ！（privateアクセス指定子）/6-05.隠せ！（privateアクセス指定子）.vcxproj" Id="a8fe0c09-7c8a-4894-b573-5e5fd84a9128" />
+  <Project Path="クラスの練習/クラスの練習.vcxproj" Id="9a26633a-1639-4e9d-9ba9-5e9f719fdc83" />
+  <Project Path="クラスの練習２/クラスの練習２.vcxproj" Id="49a98db3-6f15-4e78-a74d-40c650585ae7" />
 </Solution>
