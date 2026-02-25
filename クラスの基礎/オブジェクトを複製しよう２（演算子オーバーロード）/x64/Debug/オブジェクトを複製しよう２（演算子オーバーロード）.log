@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (オブジェクトを複製しよう２（演算子オーバーロード）.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  IntArray.cpp
+  Operator1.cpp
+  コードを生成中...
+C:\Users\hnt-t\dd\クラスの基礎\オブジェクトを複製しよう２（演算子オーバーロード）\IntArray.cpp(67,1): warning C4715: 'IntArray::CheckIndex': 値を返さないコントロール パスがあります。
+  オブジェクトを複製しよう２（演算子オーバーロード）.vcxproj -> C:\Users\hnt-t\dd\クラスの基礎\x64\Debug\6-09.オブジェクトを複製しよう２（演算子オーバーロード）.exe

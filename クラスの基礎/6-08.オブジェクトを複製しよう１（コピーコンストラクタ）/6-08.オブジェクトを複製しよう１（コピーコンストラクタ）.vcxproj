@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{49a98db3-6f15-4e78-a74d-40c650585ae7}</ProjectGuid>
-    <RootNamespace>クラスの練習２</RootNamespace>
+    <ProjectGuid>{17452a19-bdb1-415a-86e4-be18b59d47e4}</ProjectGuid>
+    <RootNamespace>My608オブジェクトを複製しよう１コピーコンストラクタ</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>6-06.オブジェクトを壊そう</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,11 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="private_class.cpp" />
-    <ClCompile Include="private_main.cpp" />
+    <ClCompile Include="Copy1b.cpp" />
+    <ClCompile Include="IntArray.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="private_class.h" />
+    <ClInclude Include="IntArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

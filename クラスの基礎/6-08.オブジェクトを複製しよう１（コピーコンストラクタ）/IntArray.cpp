@@ -1,4 +1,4 @@
-﻿#include "private_class.h"
+﻿#include "IntArray.h"
 #include <algorithm>
 #include <cstdlib>
 #include <iostream>
@@ -10,11 +10,10 @@ IntArray::IntArray(int size)
 	m_array = new int[size];
 	m_size = size;
 
-	//配列を0で初期化
 	fill_n(m_array, m_size, 0);
 
 	cout << "コンストラクタが呼ばれました。" << endl
-	     << "要素数は" << m_size << "です。" << endl;
+		<< "要素数は" << m_size << "です" << endl;
 }
 
 //デストラクタ
@@ -26,8 +25,19 @@ IntArray::~IntArray()
 		<< "要素数は" << m_size << "でした。" << endl;
 }
 
+//コピーコンストラクタ
+IntArray::IntArray(const IntArray& other)
+{
+	m_array = new int[other.m_size];
+	m_size = other.m_size;
+
+	copy(other.m_array, other.m_array + m_size, m_array);
+
+	cout << "コピーコンストラクタが呼ばれました。" << endl;
+}
+
 //インデックスのチェック
-void IntArray::CheckIndex(int i)
+int IntArray::CheckIndex(int i) const
 {
 	if (0 <= i && i < m_size)
 	{
@@ -35,22 +45,28 @@ void IntArray::CheckIndex(int i)
 	}
 	else
 	{
-		cout << "不正なインデックスです。" << endl
-		     << "値" << i << endl;
+		cerr << "不正なインデックスです" << endl
+			<< "値" << i << endl;
 
 		exit(EXIT_FAILURE);
 	}
 }
 
-//メンバへのアクセス関数
-int IntArray::Get(int i)
+//要素数を返す関数
+int IntArray::Size() const
 {
-	CheckIndex(i);
-	return m_array[i];
+	return m_size;
 }
 
+//メンバへのアクセス関数
 void IntArray::Set(int i, int value)
 {
 	CheckIndex(i);
 	m_array[i] = value;
+}
+
+int IntArray::Get(int i) const
+{
+	CheckIndex(i);
+	return m_array[i];
 }
