@@ -6,4 +6,5 @@
   <Project Path="7-01.クラスの子孫(継承1)/7-01.クラスの子孫(継承1).vcxproj" Id="0280e99d-41ea-4f64-bd32-e7276607dc3b" />
   <Project Path="7-01.クラスの子孫/7-01.クラスの子孫.vcxproj" Id="d27ed32e-a3f9-4ac3-a84b-6ddd9ca53f8c" />
   <Project Path="7-01.クラスの子孫２/7-01.クラスの子孫２.vcxproj" Id="fbc4ab35-5b12-4360-95e0-39caa322274c" />
+  <Project Path="7-04.関数のすげ替え１（オーバーライドと仮想関数(1)）/7-04.関数のすげ替え１（オーバーライドと仮想関数(1)）.vcxproj" Id="7d8ef5c6-0f1a-499a-8e24-f001ce0e4ad5" />
 </Solution>
