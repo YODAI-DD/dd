@@ -7,4 +7,7 @@
   <Project Path="7-01.クラスの子孫/7-01.クラスの子孫.vcxproj" Id="d27ed32e-a3f9-4ac3-a84b-6ddd9ca53f8c" />
   <Project Path="7-01.クラスの子孫２/7-01.クラスの子孫２.vcxproj" Id="fbc4ab35-5b12-4360-95e0-39caa322274c" />
   <Project Path="7-04.関数のすげ替え１（オーバーライドと仮想関数(1)）/7-04.関数のすげ替え１（オーバーライドと仮想関数(1)）.vcxproj" Id="7d8ef5c6-0f1a-499a-8e24-f001ce0e4ad5" />
+  <Project Path="7-10.所属を述べよ（スコープ解決演算子）/7-10.所属を述べよ（スコープ解決演算子）.vcxproj" Id="038ea7ec-993b-4687-978d-d50fa008dce2" />
+  <Project Path="7-11.オブジェクトを動的に作ろう/7-11.オブジェクトを動的に作ろう.vcxproj" Id="cbc462af-67fb-4942-84b6-6b50955ad515" />
+  <Project Path="練習問題/練習問題.vcxproj" Id="a1c1ec7a-de63-4439-9300-ab2fa68928ba" />
 </Solution>

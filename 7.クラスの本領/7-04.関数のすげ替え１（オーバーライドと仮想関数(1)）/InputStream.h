@@ -5,5 +5,9 @@
 class InputStream : public Stream
 {
 public:
-	virtual bool Set() override; //入力関数
+	InputStream(double n);
+	~InputStream();
+
+protected:
+	virtual void SetBase() override; //入力関数
 };

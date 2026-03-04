@@ -2,14 +2,24 @@
 #include <iostream>
 using namespace std;
 
+Stream::Stream(double n) : m_n(n)
+{
+	cout << "Streamコンストラクタ" << endl;
+}
+
+Stream::~Stream()
+{
+	cout << "Streamデストラクタ" << endl;
+}
+
 double Stream::Get() const
 {
 	return m_n;
 }
 
+//値を設定
 bool Stream::Set()
 {
-	cout << "Stream::Set" << endl;
-	m_n = -1;
-	return false;
+	SetBase();
+	return m_n >= 0;
 }

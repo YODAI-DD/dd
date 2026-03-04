@@ -2,9 +2,18 @@
 #include <iostream>
 using namespace std;
 
+InputStream::InputStream(double n) : Stream(n)
+{
+	cout << "InputStreamコンストラクタ" << endl;
+}
+
+InputStream::~InputStream()
+{
+	cout << "InputStreamデストラクタ" << endl;
+}
+
 //入力関数
-bool InputStream::Set()
+void InputStream::SetBase()
 {
 	cin >> m_n;
-	return m_n >= 0;
 }
